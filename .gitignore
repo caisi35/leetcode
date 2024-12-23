@@ -37,3 +37,8 @@ dependencies-stamp
 collector/fixtures/sys/
 
 /vendor
+
+
+# Added by cargo
+
+/target
